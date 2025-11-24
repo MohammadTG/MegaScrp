@@ -1,0 +1,8 @@
+setup.py
+MegaScrp/__init__.py
+MegaScrp/core.py
+MegaScrp/digikala.py
+MegaScrp.egg-info/PKG-INFO
+MegaScrp.egg-info/SOURCES.txt
+MegaScrp.egg-info/dependency_links.txt
+MegaScrp.egg-info/top_level.txt

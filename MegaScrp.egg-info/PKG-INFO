@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: MegaScrp
+Version: 0.0.1
+Summary: توضیح کوتاه درباره ماژول
+Home-page: https://github.com/MohammadTG/MegaScrp
+Author: MohammadTaherGH
+Requires-Python: >=3.8
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
